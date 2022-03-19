@@ -1,3 +1,8 @@
+# Collatz - Python
+# Shawnak Samaddar
+# Uses the collatz conjecture on a number to see how many steps it takes to get to 1.
+
+
 start = int(input('Enter a number:'))
 final = start
 even = str(start/2)
