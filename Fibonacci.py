@@ -1,3 +1,7 @@
+# Fibonacci - Python
+# Shawnak Samaddar
+# Finds whether a number is in the Fibonacci Sequence and finds the position of the number in the sequence
+
 dict = {1:0, 2:1}
 h = 0
 
