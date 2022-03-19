@@ -1,6 +1,6 @@
 # Everyone Counts - Python
 # Shawnak Samaddar 
-
+# Counts how many ones are in a binary form of a number
 
 
 x = int (input('Enter your number:'))
